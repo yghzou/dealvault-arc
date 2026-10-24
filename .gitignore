@@ -1,0 +1,12 @@
+.env
+.env.*
+node_modules/
+traces.jsonl
+console.jsonl
+.agents/
+out/
+cache/
+contracts/out/
+contracts/cache/
+contracts/contract-metadata/
+*.log
