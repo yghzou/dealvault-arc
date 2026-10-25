@@ -70,3 +70,7 @@ bun run contracts:test
 ```bash
 bunx vite build
 ```
+
+## Disclaimer
+
+This contract has not been audited by a third party. It was tested with Foundry (78 tests) and deployed on Arc Mainnet as an experiment. Use only small amounts.
