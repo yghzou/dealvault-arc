@@ -1,4 +1,4 @@
-# TradeEscrow — B2B Equipment Deal Platform
+# TradeEscrow — B2B (business-to-business) Equipment Deal Platform
 
 Milestone-based USDC escrow for equipment trade deals. The buyer proposes terms, the seller accepts, then the buyer funds the escrow. The contract releases USDC to the seller and agent as each milestone (Order Confirmed, Shipped, Delivered) is completed and approved. Disputes are resolved by a neutral arbiter, with a 14-day buyer fallback if the arbiter is inactive.
 
